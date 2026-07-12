@@ -234,13 +234,9 @@ I've built LangGraph agent pipelines that automate business analysis end-to-end,
   <img src="https://github-profile-trophy.vercel.app/?username=dheeraj116232&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
-<!--
-Contribution snake (animates your commit-square grid) + 3D skyline.
-Both need a one-time GitHub Actions setup (workflow files provided separately) — then uncomment:
-
-<img src="https://raw.githubusercontent.com/dheeraj116232/dheeraj116232/output/github-contribution-grid-snake.svg" width="100%"/>
-<img src="https://raw.githubusercontent.com/dheeraj116232/dheeraj116232/output/github-snake-3d.svg" width="100%"/>
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dheeraj116232/dheeraj116232/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
