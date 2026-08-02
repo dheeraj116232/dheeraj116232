@@ -211,8 +211,8 @@ I've built LangGraph agent pipelines that automate business analysis end-to-end,
 
 ### 🏆 Achievements & Certifications
 
-- 🥈 **Naukri Scholarship 2025** — College Rank #2, National Rank #614 of 12,000+
-- 🥇 **National Mathematics Olympiad** — AIR 13
+- 🥈 **Naukri Scholarship 2025** — College Rank #2, National Rank #614 of 25,000+
+- 🥇 **National Mathematics Olympiad** — AIR 513
 - 💻 **HCLTech Hackathon 2026** — solved real-world data problems
 - 📜 **Oracle Certified** — AI Foundations, Generative AI
 
