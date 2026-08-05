@@ -215,6 +215,7 @@ I've built LangGraph agent pipelines that automate business analysis end-to-end,
 - 🥇 **National Mathematics Olympiad** — AIR 513
 - 💻 **HCLTech Hackathon 2026** — solved real-world data problems
 - 📜 **Oracle Certified** — AI Foundations, Generative AI
+- 🏫 Qualified the Jawahar Navodaya Vidyalaya Selection Test (JNVST)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
